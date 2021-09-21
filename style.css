@@ -10,6 +10,14 @@ body {
     margin: 0;
 }
 
+h1 {
+    color: antiquewhite;
+}
+
+h3 {
+    color: burlywood;
+}
+
 header {
     background-color: #373b69;
     display: flex;
@@ -85,6 +93,12 @@ main {
 .movie-info span.red {
     color: rgb(189, 42, 42);
 }
+
+
+.lyleOverview {
+
+}
+
 
 .overview {
     background-color: #fff;
